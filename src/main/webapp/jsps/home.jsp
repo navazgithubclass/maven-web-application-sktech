@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Marutha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9494814378 +91 9441340859
-		sktechnologiesadl@gmail.com
+		karthyg78@yahoo.com
 		<br>
 		<a href="mailto:sktechnologiesadl@gmail.com">Mail to SK Technologies</a>
 	</span>
